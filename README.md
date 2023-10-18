@@ -1,5 +1,3 @@
-![GIF Exemplo](giphy_(1).gif)
-
 # Sistema de Ponto de Venda (PDV)
 Este é um sistema de Ponto de Venda (PDV) baseado em Node.js e Express que permite a gestão de produtos, clientes, pedidos, categorias e usuários. Este README fornecerá uma visão geral do sistema e instruções básicas para executá-lo.
 
